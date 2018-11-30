@@ -15,6 +15,7 @@
 		0470A44E21AFDAE400806493 /* coreMLDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0470A44D21AFDAE400806493 /* coreMLDemoTests.swift */; };
 		0470A45921AFDAE400806493 /* coreMLDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0470A45821AFDAE400806493 /* coreMLDemoUITests.swift */; };
 		04992F3521B0FA350079379C /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 04992F3421B0FA350079379C /* Inceptionv3.mlmodel */; };
+		04992F7121B10E8B0079379C /* ReadMe in Resources */ = {isa = PBXBuildFile; fileRef = 04992F7021B10E8B0079379C /* ReadMe */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0470A45821AFDAE400806493 /* coreMLDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coreMLDemoUITests.swift; sourceTree = "<group>"; };
 		0470A45A21AFDAE400806493 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04992F3421B0FA350079379C /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
+		04992F7021B10E8B0079379C /* ReadMe */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadMe; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		0470A42C21AFDAE200806493 = {
 			isa = PBXGroup;
 			children = (
+				04992F7021B10E8B0079379C /* ReadMe */,
 				0470A43721AFDAE200806493 /* coreMLDemo */,
 				0470A44C21AFDAE400806493 /* coreMLDemoTests */,
 				0470A45721AFDAE400806493 /* coreMLDemoUITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04992F7121B10E8B0079379C /* ReadMe in Resources */,
 				0470A44321AFDAE400806493 /* LaunchScreen.storyboard in Resources */,
 				0470A44021AFDAE400806493 /* Assets.xcassets in Resources */,
 				0470A43E21AFDAE200806493 /* Main.storyboard in Resources */,

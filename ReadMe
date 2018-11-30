@@ -1,0 +1,7 @@
+Hello there, after cloning this i thnink it wont show 'inceptionv3' model because that is very size class so please download this by your own.
+
+developer.apple.com/machine-learning (Source to download the models of machine learning)
+
+I used here inception model to recognize real object you can use by your choice like: resNet50, SqueezeNet, Places205-GoogLeNet and many more availables
+
+And make sure to change the 'model' type to selected model you download in viewcontroller class.
